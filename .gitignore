@@ -55,3 +55,7 @@ Thumbs.db
 # local venv
 assignment_venv
 
+
+# local venv
+.venv
+
